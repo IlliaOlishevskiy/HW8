@@ -6,7 +6,7 @@ public class Board {
         Trapeze T1 = new Trapeze(6,4,5);
         Triangle Tr1 = new Triangle(5,7);
 
-        System.out.println("Імена об`єктів");
+        System.out.println("Імена об`єктів:");
         System.out.println(C1.getName());
         System.out.println(Q1.getName());
         System.out.println(R1.getName());
